@@ -5,7 +5,7 @@ import { useReveal } from "@/hooks/use-reveal";
 
 const LINKEDIN_URL = "https://www.linkedin.com/in/maayerhassan786";
 const PERSONAL_SITE =
-  "https://maayer-portfolio.vercel.app/";
+  "https://portfolio-dmom.vercel.app/";
 
 export const Contact = () => {
   const ref = useReveal<HTMLDivElement>();
@@ -53,7 +53,7 @@ export const Contact = () => {
             <InfoCard
               icon={Globe}
               label="Personal Site"
-              value="https://maayer-portfolio.vercel.app/"
+              value="https://portfolio-dmom.vercel.app/"
               href={PERSONAL_SITE}
             />
             <InfoCard icon={MapPin} label="Location" value="Lahore, Punjab, Pakistan" />

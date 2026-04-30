@@ -21,7 +21,7 @@ const projects = [
   tags: ["React", "TypeScript", "Tailwind CSS", "Vercel"],
   gradient: "from-emerald-900 to-amber-800",
   image: portfolioImg,
-  github: "https://github.com/Maayercodes/Maayer-Portfolio",
+  github: "https://github.com/Maayercodes/portfolio",
   
 },
 {
