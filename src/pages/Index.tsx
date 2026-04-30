@@ -37,7 +37,7 @@ const Index = () => {
       name: "Maayer Hassan",
       jobTitle: "AI Developer & Machine Learning Engineer",
       description: DESCRIPTION,
-      url: "https://maayer-portfolio.vercel.app/",
+      url: "https://portfolio-dmom.vercel.app/",
       address: {
         "@type": "PostalAddress",
         addressLocality: "Lahore",
@@ -51,7 +51,7 @@ const Index = () => {
       sameAs: [
         "https://www.linkedin.com/in/maayerhassan786",
         "https://github.com/Maayercodes",
-        "https://maayer-portfolio.vercel.app/"
+        "https://portfolio-dmom.vercel.app/"
       ],
       knowsAbout: [
         "Python",
