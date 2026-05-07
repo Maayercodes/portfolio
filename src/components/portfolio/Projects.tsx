@@ -38,7 +38,7 @@ const projects = [
   tags: ["Python", "Flask", "Scikit-learn", "Random Forest", "Pandas", "Joblib"],
   gradient: "from-red-900 to-emerald-800",
   image: phishGuardImg,
-  github: "https://github.com/Maayercodes/Phish_Guard",
+  github: "https://github.com/Maayercodes/ML-Projects",
 },
 ];
 
